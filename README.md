@@ -18,15 +18,13 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://twitter.com/corbinr40" target="blank"><img src="https://img.shields.io/twitter/follow/corbinr40?logo=twitter&style=for-the-badge" alt="corbinr40" /></a> </p>
 
-- 🔭 I’m currently working on [RTCC](https://github.com/corbinr40/RTCC)
+- 🔭 I’m currently working on [E-Rehabilitation at Home Tool (Masters Dissertation)](https://github.com/corbinr40/E-Rehabilitation_HT)
 
 - 🌱 I’m currently learning **Swift, C and other random interests**
 
 - 👨‍💻 All of my projects are available at [corbinr40.com](corbinr40.com)
 
-- 📝 I regularly write articles on [corbinr40.com](corbinr40.com)
-
-- 📫 How to reach me **corbinr40@live.com**
+- 📫 How to reach me **contact@corbinr40.com**
 
 - 📄 Know about my experiences [corbinr40.com](corbinr40.com)
 
