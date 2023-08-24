@@ -12,15 +12,15 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">👋 Hi! I'm Corbin, aka corbinr40</h1>
-<h3 align="center">A passionate software developer from England</h3>
+<h3 align="center">A UK based software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=corbinr40&label=Profile%20views&color=0e75b6&style=flat" alt="corbinr40" /> </p>
 
 <p align="left"> <a href="https://twitter.com/corbinr40" target="blank"><img src="https://img.shields.io/twitter/follow/corbinr40?logo=twitter&style=for-the-badge" alt="corbinr40" /></a> </p>
 
-- 🔭 I’m currently working on [E-Rehabilitation at Home Tool (Masters Dissertation)](https://github.com/corbinr40/E-Rehabilitation_HT)
+- 🔭 I’m currently working on [relaunching my website (preview)](https://corbinr40.github.io)
 
-- 🌱 I’m currently learning **Swift, C and other random interests**
+- 🌱 I’m currently brushing up on my **Web Dev Skills**
 
 - 👨‍💻 All of my projects are available at [corbinr40.com](corbinr40.com)
 
