@@ -1,0 +1,34 @@
+name: Latest blog post workflow
+
+on:
+  schedule:
+    # Runs daily at 06:00 UTC
+    - cron: '0 6 * * *'
+  # Adds a "Run workflow" button on the Actions tab for manual runs
+  workflow_dispatch:
+
+permissions:
+  # Required so the job can push the README commit back to the repo
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch latest posts from corbinr40.com/rss
+        run: python3 .github/scripts/update_blog_posts.py
+
+      - name: Commit and push if the README changed
+        run: |
+          if git diff --quiet README.md; then
+            echo "README already up to date - nothing to commit."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "docs: update latest blog posts"
+            git push
+          fi
