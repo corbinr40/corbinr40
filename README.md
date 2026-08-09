@@ -19,7 +19,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Building My Portfolio Site](https://corbinr40.com/blog/building-my-portfolio) — 15 Apr 2026
+- [Building My Portfolio Site](https://corbinr40.com/blog/building-my-portfolio) — 5 Aug 2026
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
